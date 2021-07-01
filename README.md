@@ -4,13 +4,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/v2.12.0/icons/html5/html5-original.svg" alt="html5" height="96px">
     </a>
     <a href="https://www.javascript.com/" target="__blank" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.12.0/icons/javascript/javascript-plain.svg" alt="javascript" height="96px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.12.0/icons/javascript/javascript-original.svg" alt="javascript" height="96px">
     </a>
     <a href="https://www.educba.com/what-is-css3/" target="__blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/v2.12.0/icons/css3/css3-original.svg" alt="css3" height="96px">
     </a>
     <a href="https://www.typescriptlang.org/" target="__blank" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.12.0/icons/typescript/typescript-plain.svg" alt="typescript" height="96px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.12.0/icons/typescript/typescript-original.svg" alt="typescript" height="96px">
     </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="__blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/v2.12.0/icons/csharp/csharp-original.svg" alt="csharp" height="96px">
@@ -37,7 +37,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/v2.12.0/icons/electron/electron-original.svg" alt="electron" height="96px">
     </a>
     <a href="https://firebase.google.com/" target="__blank" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.12.0/icons/firebase/firebase-plain.svg" alt="firebase" height="96px">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="96px">
     </a>
     <a href="https://nodejs.org/en/" target="__blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/v2.12.0/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="96px">
