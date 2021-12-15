@@ -53,5 +53,6 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bluefrog130&show_icons=true&theme=dark">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluefrog130&layout=compact&theme=dark" alt="stats">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=bluefrog130&show_icons=true&theme=dark" alt="stats">
 </p>
