@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer | Full-Stack Developer | AI Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-adamgrady.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adamgrady.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adamgrady.dev-6366f1?style=for-the-badge&logo=cloudflare-workers&logoColor=F38020)](https://adamgrady.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adam--grady-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-grady/)
 [![Email](https://img.shields.io/badge/Email-adam.grady@live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.grady@live.com)
 
@@ -16,10 +16,10 @@
 
 I'm a **Senior Software Engineer** specializing in full-stack web development with **React**, **TypeScript**, and modern web technologies. Currently leading AI adoption initiatives at **Solarity**, where I build internal MCP tools and integrate agentic AI technologies into existing systems.
 
-- 🎓 **M.S. & B.S. in Computer Science** from University of South Dakota (4+1 Accelerated Program)
-- 📄 **Published Researcher** — [IEEE Paper on Network Traffic in Cloud Environments](https://ieeexplore.ieee.org/document/9249222)
-- 🏢 **Founder** of Grady Development LLC
-- 🚀 Passionate about building performant, accessible applications
+* 🎓 **M. S. & B. S. in Computer Science** from University of South Dakota (4+1 Accelerated Program)
+* 📄 **Published Researcher** — [IEEE Paper on Network Traffic in Cloud Environments](https://ieeexplore.ieee.org/document/9249222)
+* 🏢 **Founder** of Grady Development LLC
+* 🚀 Passionate about building performant, accessible applications
 
 ---
 
@@ -45,7 +45,7 @@ I'm a **Senior Software Engineer** specializing in full-stack web development wi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Cloud
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![. NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -68,6 +68,7 @@ I'm a **Senior Software Engineer** specializing in full-stack web development wi
 <td width="50%">
 
 ### 🏐 [Volleyball Assist](https://volleyballassist.com/)
+
 Full-stack **SaaS tournament management platform** with real-time score tracking, intelligent scheduling algorithms, and multi-device synchronization.
 
 **Tech:** SvelteKit, TypeScript, Firebase, Stripe, Algolia
@@ -76,9 +77,10 @@ Full-stack **SaaS tournament management platform** with real-time score tracking
 <td width="50%">
 
 ### 🎮 [Superstar Series](https://superstar.disconnect.gg/)
-**Polyglot esports platform** for Rocket League tournaments featuring a C#/.NET Discord bot, SvelteKit statistics website, and hybrid static/real-time architecture.
 
-**Tech:** SvelteKit, C#/.NET, Firebase, Discord API
+**Polyglot esports platform** for Rocket League tournaments featuring a C#/. NET Discord bot, SvelteKit statistics website, and hybrid static/real-time architecture.
+
+**Tech:** SvelteKit, C#/. NET, Firebase, Discord API
 
 </td>
 </tr>
@@ -86,6 +88,7 @@ Full-stack **SaaS tournament management platform** with real-time score tracking
 <td width="50%">
 
 ### 💻 [Portfolio](https://adamgrady.dev/)
+
 Custom-built React 19 portfolio with **auto-crawling SSG**, View Transitions API, AI-powered project chat, and Cloudflare Workers backend — no meta-frameworks.
 
 **Tech:** React 19, TypeScript, Vite 7, Cloudflare Workers, Hono
@@ -94,6 +97,7 @@ Custom-built React 19 portfolio with **auto-crawling SSG**, View Transitions API
 <td width="50%">
 
 ### 🏥 [wMammogram](https://wmammogram.com/)
+
 **Health education platform** increasing mammogram screening rates among American Indian women through daily video lessons, quizzes, and SMS engagement.
 
 **Tech:** Vue.js, TypeScript, Firebase, Twilio
@@ -104,6 +108,7 @@ Custom-built React 19 portfolio with **auto-crawling SSG**, View Transitions API
 <td width="50%">
 
 ### 🏠 [Duke Apartments](https://dukestreetvermillion.com/)
+
 Modern **PWA marketing website** with interactive photo gallery, responsive image delivery (AVIF/WebP), and service worker caching for offline support.
 
 **Tech:** SvelteKit, TypeScript, Firebase, Tailwind CSS
@@ -112,6 +117,7 @@ Modern **PWA marketing website** with interactive photo gallery, responsive imag
 <td width="50%">
 
 ### 🔌 [vite-plugin-barrels](https://github.com/BlueFrog130/vite-plugin-barrels)
+
 Open-source **Vite plugin** for automatic barrel file generation, improving developer experience and module organization.
 
 **Tech:** TypeScript, Vite
@@ -145,6 +151,6 @@ Open-source **Vite plugin** for automatic barrel file generation, improving deve
 
 I'm always interested in discussing new opportunities, collaborating on projects, or chatting about the latest in web development and AI.
 
-[![Portfolio](https://img.shields.io/badge/Check_out_my_portfolio-adamgrady.dev-000?style=for-the-badge)](https://adamgrady.dev/)
+[![Portfolio](https://img.shields.io/badge/Check_out_my_portfolio-adamgrady.dev-6366f1?style=for-the-badge)](https://adamgrady.dev/)
 
 </div>
